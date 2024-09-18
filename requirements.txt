@@ -1,0 +1,10 @@
+pandas
+Django
+numpy
+psycopg2
+psycopg2-binary
+beautifulsoup4
+lxml
+selenium
+djangorestframework
+python-dotenv
